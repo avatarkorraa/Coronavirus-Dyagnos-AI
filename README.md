@@ -2,9 +2,11 @@
 
 ## Descrizione del Progetto
 
-"Coronavirus Dyagnos-AI" è un progetto di intelligenza artificiale focalizzato sull'utilizzo del Machine Learning per diagnosticare malattie come l'influenza H1N1 e il COVID-19, con un'enfasi particolare sull'explainability del modello. Il progetto è basato su uno studio pubblicato e mira a migliorare la precisione e l'affidabilità delle diagnosi utilizzando dati clinici reali e approcci di explainability per rendere comprensibile il processo decisionale dei modelli.
+"Coronavirus Dyagnos-AI" è un progetto di intelligenza artificiale focalizzato sullo sviluppo di un approccio migliore rispetto a quello di uno studio scelto già pubblicato in letteratura per risolvere un task di ML. Esso si basa sull'utilizzo del Machine Learning per diagnosticare malattie come l'influenza H1N1 e il COVID-19, con un'enfasi particolare sull'explainability del modello. Il progetto mira a migliorare la precisione e l'affidabilità delle diagnosi utilizzando dati clinici e approcci di explainability per rendere comprensibile il processo decisionale dei modelli.
 
 ## Struttura del Progetto
+
+La documentazione del progetto è strutturata nel seguente modo:
 
 ### 1. Introduzione
 Il progetto inizia con un'analisi del problema del Machine Learning nella medicina di precisione, affrontando temi come l'applicazione dei modelli IA al COVID-19, la sfida dell'explainability e la gestione dei dati mancanti.
@@ -31,6 +33,8 @@ Il progetto inizia con un'analisi del problema del Machine Learning nella medici
 ### 6. Conclusioni
 - **Problematiche e Soluzioni**: Analisi delle principali sfide incontrate e delle soluzioni adottate.
 - **Risultati Finali**: Sintesi dei risultati ottenuti dal progetto.
+
+La repository contiene anche l'implementazione dei modelli sviluppati per il progetto.
 
 ## Installazione
 
